@@ -3,15 +3,13 @@
 - 🌱 I’m currently learning ...
   - PyTorch
   - C++
-  - Procedural Generation in games
 
 <br />
 
 - 🔭 I’m currently working on ...
   - Competitive Programming
-  - Co-op Procedurally Generated Horror Game
   - The Leetcode Grind 💪
-  - Reverse Image Search using Object Identification
+  - Reverse Image Searching
  
 <br />
   
