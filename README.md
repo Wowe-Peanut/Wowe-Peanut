@@ -1,15 +1,9 @@
 ### Greeeetings 🦍
-
-- 🌱 I’m currently learning ...
-  - PyTorch
-  - C++
-
 <br />
 
 - 🔭 I’m currently working on ...
-  - Competitive Programming
-  - The Leetcode Grind 💪
-  - Reverse Image Searching
+  - Competitive Programming (ICPC & Codeforces)
+  - Learning PyTorch
  
 <br />
   
